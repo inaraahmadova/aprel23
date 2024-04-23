@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\aprel23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6516C-6897-45E1-AE11-0436FE1DAAC0}|aprel23\\aprel23.csproj|c:\\users\\hp\\desktop\\aprel23\\aprel23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6516C-6897-45E1-AE11-0436FE1DAAC0}|aprel23\\aprel23.csproj|solutionrelative:aprel23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6516C-6897-45E1-AE11-0436FE1DAAC0}|aprel23\\aprel23.csproj|c:\\users\\hp\\desktop\\aprel23\\aprel23\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6516C-6897-45E1-AE11-0436FE1DAAC0}|aprel23\\aprel23.csproj|solutionrelative:aprel23\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F6516C-6897-45E1-AE11-0436FE1DAAC0}|aprel23\\aprel23.csproj|c:\\users\\hp\\desktop\\aprel23\\aprel23\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F6516C-6897-45E1-AE11-0436FE1DAAC0}|aprel23\\aprel23.csproj|solutionrelative:aprel23\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\aprel23\\aprel23\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "aprel23\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\aprel23\\aprel23\\Models\\Exam.cs",
+              "RelativeToolTip": "aprel23\\Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:57:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\aprel23\\aprel23\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "aprel23\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\aprel23\\aprel23\\Models\\Person.cs",
+              "RelativeToolTip": "aprel23\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:26:24.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\aprel23\\aprel23\\Program.cs",
+              "RelativeDocumentMoniker": "aprel23\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\aprel23\\aprel23\\Program.cs",
+              "RelativeToolTip": "aprel23\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwHYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:25:07.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
